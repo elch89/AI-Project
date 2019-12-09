@@ -18,6 +18,10 @@ Cost = sum of given subset in state
 
 # Solving the problem using Uniform-Cost algorithm
 This project was created to show this 
-### is not efficient ###
+**is not efficient**
 
 This method was compared with a Genetic algorithm (Not uploaded here)
+
+# See presentation and source code
+- [PRESENTATION](AI-Project.pptx)
+- [CODE](partition_uc.py)
